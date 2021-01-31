@@ -1,7 +1,0 @@
-C:\Users\şule\source\repos\string degisken ornekleri\string degisken ornekleri\obj\Debug\string degisken ornekleri.csproj.CoreCompileInputs.cache
-C:\Users\şule\source\repos\string degisken ornekleri\string degisken ornekleri\bin\Debug\string degisken ornekleri.exe.config
-C:\Users\şule\source\repos\string degisken ornekleri\string degisken ornekleri\bin\Debug\string degisken ornekleri.exe
-C:\Users\şule\source\repos\string degisken ornekleri\string degisken ornekleri\bin\Debug\string degisken ornekleri.pdb
-C:\Users\şule\source\repos\string degisken ornekleri\string degisken ornekleri\obj\Debug\string degisken ornekleri.exe
-C:\Users\şule\source\repos\string degisken ornekleri\string degisken ornekleri\obj\Debug\string degisken ornekleri.pdb
-C:\Users\şule\source\repos\string degisken ornekleri\string degisken ornekleri\obj\Debug\string degisken ornekleri.csprojAssemblyReference.cache

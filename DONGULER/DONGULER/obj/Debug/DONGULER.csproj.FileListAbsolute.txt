@@ -1,7 +1,0 @@
-C:\Users\şule\source\repos\DONGULER\DONGULER\obj\Debug\DONGULER.csprojAssemblyReference.cache
-C:\Users\şule\source\repos\DONGULER\DONGULER\obj\Debug\DONGULER.csproj.CoreCompileInputs.cache
-C:\Users\şule\source\repos\DONGULER\DONGULER\bin\Debug\DONGULER.exe.config
-C:\Users\şule\source\repos\DONGULER\DONGULER\bin\Debug\DONGULER.exe
-C:\Users\şule\source\repos\DONGULER\DONGULER\bin\Debug\DONGULER.pdb
-C:\Users\şule\source\repos\DONGULER\DONGULER\obj\Debug\DONGULER.exe
-C:\Users\şule\source\repos\DONGULER\DONGULER\obj\Debug\DONGULER.pdb

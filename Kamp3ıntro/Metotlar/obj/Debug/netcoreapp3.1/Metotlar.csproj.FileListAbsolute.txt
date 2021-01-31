@@ -1,0 +1,13 @@
+C:\Users\şule\source\repos\Kamp3ıntro\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.exe
+C:\Users\şule\source\repos\Kamp3ıntro\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.deps.json
+C:\Users\şule\source\repos\Kamp3ıntro\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.runtimeconfig.json
+C:\Users\şule\source\repos\Kamp3ıntro\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.runtimeconfig.dev.json
+C:\Users\şule\source\repos\Kamp3ıntro\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.dll
+C:\Users\şule\source\repos\Kamp3ıntro\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.pdb
+C:\Users\şule\source\repos\Kamp3ıntro\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.csprojAssemblyReference.cache
+C:\Users\şule\source\repos\Kamp3ıntro\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.AssemblyInfoInputs.cache
+C:\Users\şule\source\repos\Kamp3ıntro\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.AssemblyInfo.cs
+C:\Users\şule\source\repos\Kamp3ıntro\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.csproj.CoreCompileInputs.cache
+C:\Users\şule\source\repos\Kamp3ıntro\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.dll
+C:\Users\şule\source\repos\Kamp3ıntro\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.pdb
+C:\Users\şule\source\repos\Kamp3ıntro\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.genruntimeconfig.cache
