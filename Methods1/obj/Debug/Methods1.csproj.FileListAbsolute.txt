@@ -1,0 +1,7 @@
+C:\Users\şule\source\repos\Methods1\bin\Debug\Methods1.exe.config
+C:\Users\şule\source\repos\Methods1\bin\Debug\Methods1.exe
+C:\Users\şule\source\repos\Methods1\bin\Debug\Methods1.pdb
+C:\Users\şule\source\repos\Methods1\obj\Debug\Methods1.csprojAssemblyReference.cache
+C:\Users\şule\source\repos\Methods1\obj\Debug\Methods1.csproj.CoreCompileInputs.cache
+C:\Users\şule\source\repos\Methods1\obj\Debug\Methods1.exe
+C:\Users\şule\source\repos\Methods1\obj\Debug\Methods1.pdb

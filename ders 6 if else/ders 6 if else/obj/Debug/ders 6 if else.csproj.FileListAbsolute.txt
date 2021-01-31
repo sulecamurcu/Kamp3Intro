@@ -1,0 +1,7 @@
+C:\Users\şule\source\repos\ders 6 if else\ders 6 if else\bin\Debug\ders 6 if else.exe.config
+C:\Users\şule\source\repos\ders 6 if else\ders 6 if else\bin\Debug\ders 6 if else.exe
+C:\Users\şule\source\repos\ders 6 if else\ders 6 if else\bin\Debug\ders 6 if else.pdb
+C:\Users\şule\source\repos\ders 6 if else\ders 6 if else\obj\Debug\ders 6 if else.csprojAssemblyReference.cache
+C:\Users\şule\source\repos\ders 6 if else\ders 6 if else\obj\Debug\ders 6 if else.csproj.CoreCompileInputs.cache
+C:\Users\şule\source\repos\ders 6 if else\ders 6 if else\obj\Debug\ders 6 if else.exe
+C:\Users\şule\source\repos\ders 6 if else\ders 6 if else\obj\Debug\ders 6 if else.pdb

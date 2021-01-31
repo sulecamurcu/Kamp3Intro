@@ -1,0 +1,13 @@
+C:\Users\şule\source\repos\1.eğitim\bin\Debug\netcoreapp3.1\1.eğitim.exe
+C:\Users\şule\source\repos\1.eğitim\bin\Debug\netcoreapp3.1\1.eğitim.deps.json
+C:\Users\şule\source\repos\1.eğitim\bin\Debug\netcoreapp3.1\1.eğitim.runtimeconfig.json
+C:\Users\şule\source\repos\1.eğitim\bin\Debug\netcoreapp3.1\1.eğitim.runtimeconfig.dev.json
+C:\Users\şule\source\repos\1.eğitim\bin\Debug\netcoreapp3.1\1.eğitim.dll
+C:\Users\şule\source\repos\1.eğitim\bin\Debug\netcoreapp3.1\1.eğitim.pdb
+C:\Users\şule\source\repos\1.eğitim\obj\Debug\netcoreapp3.1\1.eğitim.csprojAssemblyReference.cache
+C:\Users\şule\source\repos\1.eğitim\obj\Debug\netcoreapp3.1\1.eğitim.AssemblyInfoInputs.cache
+C:\Users\şule\source\repos\1.eğitim\obj\Debug\netcoreapp3.1\1.eğitim.AssemblyInfo.cs
+C:\Users\şule\source\repos\1.eğitim\obj\Debug\netcoreapp3.1\1.eğitim.csproj.CoreCompileInputs.cache
+C:\Users\şule\source\repos\1.eğitim\obj\Debug\netcoreapp3.1\1.eğitim.dll
+C:\Users\şule\source\repos\1.eğitim\obj\Debug\netcoreapp3.1\1.eğitim.pdb
+C:\Users\şule\source\repos\1.eğitim\obj\Debug\netcoreapp3.1\1.eğitim.genruntimeconfig.cache
